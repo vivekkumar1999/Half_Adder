@@ -1,4 +1,4 @@
-# Half_Adder
+# Half_Adder Design
 Design of Half Adder using verilog in Vivado
 
 
